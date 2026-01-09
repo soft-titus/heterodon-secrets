@@ -1,6 +1,6 @@
-# Cluster Secrets
+# Heterodon Secrets
 
-Secure storage and management of secrets for the Kubernetes Cluster.
+Secure storage and management of secrets for the Heterodon Kubernetes Cluster.
 
 All secrets must be encrypted before being committed to the Git repository.
 
